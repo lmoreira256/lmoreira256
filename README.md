@@ -16,6 +16,7 @@
   <img align="center" height="40" width="40" alt="Lucas-Ionic" src="./img/ionic.png">
   <img align="center" height="40" width="40" alt="Lucas-Angular" src="./img/angular.png">
   <img align="center" height="40" width="40" alt="Lucas-React" src="./img/react.png">
+  <img align="center" height="40" width="40" alt="Lucas-Flutter" src="./img/flutter.png">
 </div>
 
 ##
